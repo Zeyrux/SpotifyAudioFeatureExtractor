@@ -1,3 +1,4 @@
 .venv
 __pycache__
 spotify_api_keys.txt
+data.csv
